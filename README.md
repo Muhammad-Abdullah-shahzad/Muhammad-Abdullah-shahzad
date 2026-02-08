@@ -1,7 +1,7 @@
 <h2 align="left">About Me</h2>
 
 <div align="center">
-  <img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJ6YjkyOWdueG1scTczYzJ6cXMzMjBxMXVueTZ3cHY1YXU1aWhzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPJUHDABth0aC84zm/giphy-downsized-large.gif" alt="Coding Animation"/>
+  /*<img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJ6YjkyOWdueG1scTczYzJ6cXMzMjBxMXVueTZ3cHY1YXU1aWhzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPJUHDABth0aC84zm/giphy-downsized-large.gif" alt="Coding Animation"/>*/
 </div>
 
 - Working on web app technologies.
